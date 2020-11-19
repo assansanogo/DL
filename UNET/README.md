@@ -5,6 +5,6 @@ key take-aways (Mentee):
 * Fully convolutional network
 * (Conv-Pool) Blocks
 * Define Blocks as Layers (class)
-* Define Blocks as Functions (class)
+* Define Blocks as Functions 
 * Modular Code
 
